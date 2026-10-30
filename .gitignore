@@ -22,3 +22,6 @@ out_*/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# 仓库里的说明图（docs 下的 png 要保留）
+!docs/*.png
